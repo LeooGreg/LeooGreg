@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeooGreg
+- 👋 Hi, I’m @PreciousFood
 - 👀 I’m interested in coding and stuff. Why? Becuase it is fun. I mostly have done python. 
 - 🌱 I’m trying to learn C#, but it is hard becuase me school won't let me download it.
 
