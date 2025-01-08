@@ -4,6 +4,7 @@
 - 👀 I’m interested in coding and stuff. I mostly have done python. I don't have the patience to really learn anything ese.
 - 🎲 These repositories are just a bunch of random code I've thrown together. I am really really really bad at finishing stuff...
 - 🏁 I have one project that is (maybe?) finished [here](https://github.com/PreciousFood/ASCII_PyGraphics)
+- [insert nonexistent raspberry emoji here] Recently have been getting into raspberry pi stuff, so I have some repositories of that
 
 
 <!---
